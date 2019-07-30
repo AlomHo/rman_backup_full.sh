@@ -1,0 +1,1 @@
+# rman_backup_full.sh
